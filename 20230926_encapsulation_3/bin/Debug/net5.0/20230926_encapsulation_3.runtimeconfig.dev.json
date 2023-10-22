@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\piks\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\piks\\.nuget\\packages",
+      "D:\\vi\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

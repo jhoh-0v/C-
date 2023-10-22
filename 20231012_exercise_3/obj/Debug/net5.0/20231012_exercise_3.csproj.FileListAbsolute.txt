@@ -1,0 +1,16 @@
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.csproj.AssemblyReference.cache
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.AssemblyInfoInputs.cache
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.AssemblyInfo.cs
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.csproj.CoreCompileInputs.cache
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\20231012_exercise_3.exe
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\20231012_exercise_3.deps.json
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\20231012_exercise_3.runtimeconfig.json
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\20231012_exercise_3.runtimeconfig.dev.json
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\20231012_exercise_3.dll
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\ref\20231012_exercise_3.dll
+D:\학교\c수업\c#\20231012_exercise_3\bin\Debug\net5.0\20231012_exercise_3.pdb
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.dll
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\ref\20231012_exercise_3.dll
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.pdb
+D:\학교\c수업\c#\20231012_exercise_3\obj\Debug\net5.0\20231012_exercise_3.genruntimeconfig.cache

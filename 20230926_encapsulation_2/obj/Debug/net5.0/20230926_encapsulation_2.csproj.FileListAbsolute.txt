@@ -1,0 +1,16 @@
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.csproj.AssemblyReference.cache
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.AssemblyInfoInputs.cache
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.AssemblyInfo.cs
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.csproj.CoreCompileInputs.cache
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\20230926_encapsulation_2.exe
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\20230926_encapsulation_2.deps.json
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\20230926_encapsulation_2.runtimeconfig.json
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\20230926_encapsulation_2.runtimeconfig.dev.json
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\20230926_encapsulation_2.dll
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\ref\20230926_encapsulation_2.dll
+D:\학교\c수업\c#\20230926_encapsulation_2\bin\Debug\net5.0\20230926_encapsulation_2.pdb
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.dll
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\ref\20230926_encapsulation_2.dll
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.pdb
+D:\학교\c수업\c#\20230926_encapsulation_2\obj\Debug\net5.0\20230926_encapsulation_2.genruntimeconfig.cache

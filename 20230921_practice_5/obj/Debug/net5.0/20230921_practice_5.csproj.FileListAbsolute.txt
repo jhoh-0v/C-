@@ -1,0 +1,16 @@
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.csproj.AssemblyReference.cache
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.AssemblyInfoInputs.cache
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.AssemblyInfo.cs
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.csproj.CoreCompileInputs.cache
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\20230921_practice_5.exe
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\20230921_practice_5.deps.json
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\20230921_practice_5.runtimeconfig.json
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\20230921_practice_5.runtimeconfig.dev.json
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\20230921_practice_5.dll
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\ref\20230921_practice_5.dll
+D:\학교\c수업\c#\20230921_practice_5\bin\Debug\net5.0\20230921_practice_5.pdb
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.dll
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\ref\20230921_practice_5.dll
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.pdb
+D:\학교\c수업\c#\20230921_practice_5\obj\Debug\net5.0\20230921_practice_5.genruntimeconfig.cache
