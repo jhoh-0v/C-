@@ -1,0 +1,16 @@
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.csproj.AssemblyReference.cache
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.GeneratedMSBuildEditorConfig.editorconfig
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.AssemblyInfoInputs.cache
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.AssemblyInfo.cs
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.csproj.CoreCompileInputs.cache
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\20230921.exe
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\20230921.deps.json
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\20230921.runtimeconfig.json
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\20230921.runtimeconfig.dev.json
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\20230921.dll
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\ref\20230921.dll
+D:\학교\c수업\c#\20230921\bin\Debug\net5.0\20230921.pdb
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.dll
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\ref\20230921.dll
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.pdb
+D:\학교\c수업\c#\20230921\obj\Debug\net5.0\20230921.genruntimeconfig.cache
